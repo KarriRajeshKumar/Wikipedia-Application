@@ -3,10 +3,10 @@
 
 <h2>Features</h2>
 <ul>
-<li><h5>Search Wikipedia:</h5> Type keywords to search for Wikipedia articles.</li>
-<li><h5>Display Results:</h5> Shows a list of search results with titles, links, and descriptions.</li>
-<li><h5>Loading Indicator:</h5> Displays a spinner while fetching search results.</li>
-<li><h5>Responsive Design:</h5> The application is styled using Bootstrap for a consistent look across devices.</li>
+<li><h4>Search Wikipedia:</h4> Type keywords to search for Wikipedia articles.</li>
+<li><h4>Display Results:</h4> Shows a list of search results with titles, links, and descriptions.</li>
+<li><h4>Loading Indicator:</h4> Displays a spinner while fetching search results.</li>
+<li><h4>Responsive Design:</h4> The application is styled using Bootstrap for a consistent look across devices.</li>
 </ul>
 <h2>Technologies Used</h2>
 <ul>
